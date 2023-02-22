@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou AshwiniJi, Happy CI-CD Learning! </h1>
+   <h1> Build and Deploy web application on container! </h1>
 
   
 </form>
